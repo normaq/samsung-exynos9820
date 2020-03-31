@@ -28,7 +28,7 @@ jobs:
       run: |
         ./build config           \
                 model=G973F      \
-                name=CRUEL-V3.2  \
+                name=NromKernel  \
                 +magisk          \
                 +nohardening     \
                 +ttl             \
